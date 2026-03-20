@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\build\\static",
+    "\\build\\static\\js",
     "\\public",
-    "\\src",
-    "\\src\\assets",
-    "\\src\\components"
+    "\\src"
   ],
   "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
