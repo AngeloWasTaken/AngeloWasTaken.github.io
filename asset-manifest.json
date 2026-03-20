@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AngeloWasTaken.github.io/static/css/main.e2bf06ad.css",
+    "main.js": "/AngeloWasTaken.github.io/static/js/main.2218cc29.js",
+    "static/media/ASME2.png": "/AngeloWasTaken.github.io/static/media/ASME2.c189f112f9d5e1060c21.png",
+    "static/media/ASRES.pdf": "/AngeloWasTaken.github.io/static/media/ASRES.dc98f438487e78dbb6af.pdf",
+    "static/media/lge.png": "/AngeloWasTaken.github.io/static/media/lge.0f5f8f8334b48ac4eac2.png",
+    "static/media/ASME.png": "/AngeloWasTaken.github.io/static/media/ASME.ccea19fe76b24c5a624c.png",
+    "static/media/brushed-alum.png": "/AngeloWasTaken.github.io/static/media/brushed-alum.acc9a88b9257dc3ce2da.png",
+    "index.html": "/AngeloWasTaken.github.io/index.html",
+    "main.e2bf06ad.css.map": "/AngeloWasTaken.github.io/static/css/main.e2bf06ad.css.map",
+    "main.2218cc29.js.map": "/AngeloWasTaken.github.io/static/js/main.2218cc29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2bf06ad.css",
+    "static/js/main.2218cc29.js"
+  ]
+}
